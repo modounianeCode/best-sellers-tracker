@@ -1,5 +1,7 @@
 # 📌 Best-Sellers Tracker
 
+[![CI](https://github.com/modounianeCode/best-sellers-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/modounianeCode/best-sellers-tracker/actions/workflows/ci.yml)
+
 Dashboard web Next.js qui récupère les produits les plus vendus sur **Amazon + AliExpress**.
 
 ## 🚀 Démarrage
